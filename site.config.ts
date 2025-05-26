@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'before sec',
-  domain: 'https://beforesec.notion.site/before-security-1fff217573a580bbb5baeb13d14f5bea',
+  domain: 'https://www.notion.so/beforesec/before-security-1fff217573a580bbb5baeb13d14f5bea',
   author: 'before',
 
   // open graph metadata (optional)
